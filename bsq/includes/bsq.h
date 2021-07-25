@@ -13,7 +13,7 @@
 #ifndef BSQ_H
 # define BSQ_H
 
-# define BUFF_SIZE 32768
+# define BUFF_SIZE 8192000
 
 typedef struct s_max
 {
